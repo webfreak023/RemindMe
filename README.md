@@ -12,6 +12,7 @@ RemindMe uses couple of open source and/or free projects, API's to work properly
 
 - Create a free trial account in Twilio to recieve SMS in your verified phone number through the Twilio API. 
 - Replace <account_sid>, <auth_token>, <your_phone_number> and <twilio_number> with the one from twilio.com/console after you signup.
+- P.S.: You can send SMS only to the numbers verified by twilio. Refer - https://www.twilio.com/docs/errors/21608
 
 ### Installation
 
